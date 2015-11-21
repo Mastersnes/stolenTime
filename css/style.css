@@ -1,0 +1,30 @@
+.canvas {
+	width : 700px;
+	height : 400px;
+}
+
+.perso {
+	position: absolute;
+	width: 35px;
+	height: 45px;
+}
+
+.perso:hover {
+	background-position: -35px 0px;
+}
+
+.murHaut {
+	position: absolute;
+	width: 700px;
+	height: 400px;
+	left: 0px;
+	top: 0px;
+}
+
+.murBas {
+	position: absolute;
+	width: 640px;
+	height: 121px;
+	left: 40px;
+	top: 280px;
+}
